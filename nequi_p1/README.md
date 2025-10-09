@@ -95,5 +95,5 @@ Nequi by Perea es una simulación de la aplicación Nequi (Bancolombia) desarrol
 - Historial de transacciones en memoria y categorización automática de gastos.
 
 **Autor:** Jose Angel Perea Valencia  
-**Universidad del Pacífico — 2024**  
+**Universidad del Pacífico — 2025**  
 **Materia:** Programación Orientada a Objetos
